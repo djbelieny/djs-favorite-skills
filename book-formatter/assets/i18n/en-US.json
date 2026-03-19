@@ -1,0 +1,19 @@
+{
+  "dedication": "DEDICATION",
+  "tableOfContents": "TABLE OF CONTENTS",
+  "chapter": "CHAPTER",
+  "part": "PART",
+  "preface": "PREFACE",
+  "foreword": "FOREWORD",
+  "introduction": "INTRODUCTION",
+  "conclusion": "CONCLUSION",
+  "epilogue": "EPILOGUE",
+  "aboutAuthor": "ABOUT THE AUTHOR",
+  "acknowledgments": "ACKNOWLEDGMENTS",
+  "bibliography": "BIBLIOGRAPHY",
+  "index": "INDEX",
+  "copyright": "Copyright",
+  "allRightsReserved": "All rights reserved",
+  "noReproduction": "No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of the author.",
+  "pageNumberPlaceholder": "##"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "md-to-docx",
+  "version": "1.0.0",
+  "description": "Markdown to DOCX converter with proper Word styles and preset system",
+  "main": "scripts/convert.js",
+  "dependencies": {
+    "docx": "^9.5.1"
+  }
+}

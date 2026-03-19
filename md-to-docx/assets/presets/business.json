@@ -1,0 +1,29 @@
+{
+  "name": "business",
+  "page": {
+    "width": 12240,
+    "height": 15840,
+    "margins": {
+      "top": 1440,
+      "bottom": 1440,
+      "left": 1440,
+      "right": 1440
+    }
+  },
+  "styles": {
+    "default": { "font": "Calibri", "size": 22 },
+    "Title": { "font": "Calibri Light", "size": 52, "color": "1F4E79", "alignment": "LEFT" },
+    "Subtitle": { "font": "Calibri", "size": 28, "color": "2E75B6", "alignment": "LEFT" },
+    "Heading1": { "font": "Calibri Light", "size": 36, "color": "1F4E79", "alignment": "LEFT", "spaceBefore": 360, "spaceAfter": 200 },
+    "Heading2": { "font": "Calibri Light", "size": 30, "color": "2E75B6", "alignment": "LEFT", "spaceBefore": 240, "spaceAfter": 160 },
+    "Heading3": { "size": 26, "color": "2E75B6", "alignment": "LEFT", "spaceBefore": 200, "spaceAfter": 120 },
+    "Heading4": { "size": 22, "bold": true, "color": "2E75B6", "alignment": "LEFT", "spaceBefore": 160, "spaceAfter": 100 },
+    "Heading5": { "size": 22, "bold": true, "italics": true, "alignment": "LEFT", "spaceBefore": 120, "spaceAfter": 80 },
+    "Heading6": { "size": 22, "italics": true, "alignment": "LEFT", "spaceBefore": 120, "spaceAfter": 80 },
+    "Normal": { "alignment": "LEFT", "spaceBefore": 0, "spaceAfter": 160 },
+    "Quote": { "italics": true, "indentLeft": 720, "color": "404040", "spaceBefore": 160, "spaceAfter": 160 },
+    "ListParagraph": { "indentLeft": 360, "spaceBefore": 40, "spaceAfter": 40 },
+    "Code": { "font": "Consolas", "size": 20, "spaceBefore": 120, "spaceAfter": 120 }
+  },
+  "footer": { "pageNumbers": true, "size": 18, "alignment": "RIGHT" }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "book-formatter",
+  "version": "1.0.0",
+  "description": "Book assembly with front-matter, back-matter, i18n, and PDF export",
+  "main": "scripts/assemble-book.js",
+  "dependencies": {
+    "docx": "^9.5.1"
+  }
+}

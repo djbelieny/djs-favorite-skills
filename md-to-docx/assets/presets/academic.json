@@ -1,0 +1,29 @@
+{
+  "name": "academic",
+  "page": {
+    "width": 12240,
+    "height": 15840,
+    "margins": {
+      "top": 1440,
+      "bottom": 1440,
+      "left": 1440,
+      "right": 1440
+    }
+  },
+  "styles": {
+    "default": { "font": "Times New Roman", "size": 24 },
+    "Title": { "font": "Times New Roman", "size": 32, "bold": true, "alignment": "CENTER" },
+    "Subtitle": { "font": "Times New Roman", "size": 28, "alignment": "CENTER" },
+    "Heading1": { "size": 28, "bold": true, "alignment": "CENTER", "spaceBefore": 480, "spaceAfter": 240 },
+    "Heading2": { "size": 26, "bold": true, "alignment": "LEFT", "spaceBefore": 360, "spaceAfter": 200 },
+    "Heading3": { "size": 24, "bold": true, "italics": true, "alignment": "LEFT", "spaceBefore": 240, "spaceAfter": 160 },
+    "Heading4": { "size": 24, "bold": true, "alignment": "LEFT", "spaceBefore": 200, "spaceAfter": 120 },
+    "Heading5": { "size": 24, "italics": true, "alignment": "LEFT", "spaceBefore": 160, "spaceAfter": 100 },
+    "Heading6": { "size": 24, "alignment": "LEFT", "spaceBefore": 120, "spaceAfter": 80 },
+    "Normal": { "alignment": "LEFT", "spaceBefore": 0, "spaceAfter": 0, "lineSpacing": 480 },
+    "Quote": { "indentLeft": 720, "indentRight": 720, "spaceBefore": 240, "spaceAfter": 240 },
+    "ListParagraph": { "indentLeft": 720, "spaceBefore": 0, "spaceAfter": 0, "lineSpacing": 480 },
+    "Code": { "font": "Courier New", "size": 22, "spaceBefore": 120, "spaceAfter": 120 }
+  },
+  "footer": { "pageNumbers": true, "size": 20, "alignment": "CENTER" }
+}
